@@ -1,0 +1,13 @@
+h3{
+    color:white;
+}
+h1{
+    color:white;
+}
+p::first-letter {
+    font-size: 250%;
+    color:white
+}
+p {
+    color: white;
+}
